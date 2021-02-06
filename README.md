@@ -8,6 +8,6 @@ As a former kinesiology student, I deeply value studying the health of the human
 1. Reading, tidying, and scaling data
 2. Partitioning training and testing data
 3. Preliminary data visualization
-4. K-NN classification & Troubleshooting
+4. K-NN classification & troubleshooting
 5. Testing the model
 6. Implications & Closing
