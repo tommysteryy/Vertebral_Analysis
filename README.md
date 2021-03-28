@@ -11,3 +11,5 @@ As a former kinesiology student, I deeply value studying the health of the human
 4. K-NN classification & troubleshooting
 5. Testing the model
 6. Implications & closing
+
+To see the full project, see the "Data Analysis Notebook".
