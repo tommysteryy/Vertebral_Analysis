@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Just wanted to try this, now see if it will work.
 
 Also, what about this:
-```r
+```{r}
 library(tidyverse)
 write_csv()
 ```
