@@ -12,4 +12,4 @@ As a former kinesiology student, I deeply value studying the health of the human
 5. Testing the model
 6. Implications & closing
 
-To see the full project, see the "Data Analysis Notebook".
+To see the full project, see the "[Data Analysis Notebook](https://github.com/tommysteryy/Vertebral_Analysis/blob/main/Data%20Analysis%20Notebook.ipynb)".
